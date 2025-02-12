@@ -31,5 +31,5 @@ jobs:
         git pull origin main
         source venv/bin/activate
         pip install -r requirements.txt
-        sudo systemctl restart hngx-stage2-fastapi-book-project
+        sudo systemctl restart fastapi
         EOF
