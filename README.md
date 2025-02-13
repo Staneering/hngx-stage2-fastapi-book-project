@@ -39,8 +39,8 @@ fastapi-book-project/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Staneering/hngx-stage2-fastapi-book-project.git
+cd hngx-stage2-fastapi-book-project
 ```
 
 ### 2️⃣ Create and Activate Virtual Environment
